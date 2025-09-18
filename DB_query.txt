@@ -1,0 +1,9 @@
+use algo;
+
+CREATE TABLE daily_ohlc (
+    `datetime` DATE,
+    `open` INT,
+    `high` INT,
+    `low` INT,
+    `close` INT
+);
