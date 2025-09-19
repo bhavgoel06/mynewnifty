@@ -1,0 +1,8 @@
+breeze-connect
+pandas
+py-vollib
+scipy
+numpy
+selenium
+pyotp
+webdriver-manager
